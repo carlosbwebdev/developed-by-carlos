@@ -1,1 +1,1 @@
-#Gatsby Starter Project
+#Gatsby Starter Template
